@@ -11,7 +11,8 @@ Although Go is primarily known as a backend language, used for DevOps (Developme
 Play online: https://gopher-pong.netlify.app/
 
 Controls:
-* P1:W/S  P2:arrows. up/down
-* r reset
-* f fullscreen
-* g gopher mode (online only, didn't make it into our talk, or this code version, but is online)
+* P1:W/S  P2:arrows - up/down
+* r - reset
+* f - fullscreen
+* space - serve ball
+* g - gopher mode (online only, didn't make it into our talk, or this code version, but is online)
