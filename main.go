@@ -60,7 +60,7 @@ func NewGame() *Game {
 		},
 		b: Ball{
 			x:    sW/2 - bW/2,
-			y:    sH/2 - bW/2, //center the paddle on the y axis drawing a square so height of ball is same as width
+			y:    sH/2 - bW/2, //center the ball on the y axis drawing a square so height of ball is same as width
 			w:    bW,
 			h:    bW,
 			vx:   0,
