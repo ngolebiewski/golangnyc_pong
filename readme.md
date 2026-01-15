@@ -8,7 +8,11 @@ Why? Go is versatile!
 
 Although Go is primarily known as a backend language, used for DevOps (Development Operations), REST APIs, Cloud Computing, Network Engineering, Site Reliability Engineering etc. out in the real digital world. It is also fast and compiles down to a binary. 
 
-Play online: https://gopher-pong.netlify.app/
+Every ebitengine project starts here:
+https://ebitengine.org/en/documents/install.html 
+
+
+**Play online: https://gopher-pong.netlify.app/**
 
 Controls:
 * P1:W/S  P2:arrows - up/down
