@@ -151,7 +151,7 @@ func (g *Game) Update() error {
 		g.b.v = min(g.b.maxV, g.b.v+.5)
 	}
 
-	//Ball hit by Paddle 2
+	// Ball hit by Paddle 2
 	if aabb(g.b.x, g.b.y, g.b.w, g.b.w, g.p2.x, g.p2.y, g.p2.w, g.p2.h) && g.b.vx > 0 {
 		g.b.vx = -g.b.vx
 		g.b.vy += rand.Float32() / 3 * RandomDirection()
